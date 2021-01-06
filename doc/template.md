@@ -24,7 +24,7 @@
 
 ## 4. Generate displacement and lighting maps
 
-- Check out the https://github.com/kvdenden/mockupmark-prototype repository
+- Check out the https://github.com/codihaus/mockupmark-prototype repository
 - Copy your template and mask images to this folder
 - Copy an artwork to this folder
 - Change the template, mask and coordinates parameters in the generation methods at the bottom
